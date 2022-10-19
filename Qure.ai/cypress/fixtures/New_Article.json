@@ -1,0 +1,8 @@
+[
+    {
+        "ArticleTitle": "Cypress and It’s Features",
+        "write_your_Article": "Cypress is a nodeJS-based test automation testing tool that is built basically on top of Mocha JS. One can automate the front end (web) and back end (API)both with cypress. Cypress has some super amazing features which make it a favorite choice of QA and Dev when it comes to automation these days.",
+        "AboutArticle": "Java Script E2E Testing Framework",
+        "Tags": "Cypress Automation"
+    }
+]

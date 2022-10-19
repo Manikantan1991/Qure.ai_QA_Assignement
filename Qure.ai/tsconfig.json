@@ -1,0 +1,31 @@
+{
+  "ts-node": {
+    "files": true
+  },
+  "compilerOptions": {
+  
+   "declaration": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "target": "ES2017",
+    "module": "CommonJS",
+    "types": ["cypress", "cypress-xpath","cypress-file-upload"],
+    "lib": ["dom", "ES2021"]
+  },
+  "include": [
+    "lib/**/*.ts",
+    "test/**/*.ts",
+    "methods.ts",
+    "declarations.d.ts",
+    
+  ],
+  "exclude": ["lib/index.test-d.ts"]
+
+  
+}
+
+  
+
